@@ -38,19 +38,3 @@ data/       Information about input data
 scripts/    Data download, analysis and plotting scripts
 figures/    Figures produced by the analysis
 results/    Derived numerical results
-
-
-
-pwd
-cat > data/README.md <<'EOF'
-# Data
-
-Input data for this project are obtained from the Copernicus Climate Data Store
-(CDS).
-
-The analysis uses ERA5-Land reanalysis data for June 2026.
-
-Raw NetCDF files are intentionally excluded from version control because they
-can be reproduced using the download script in:
-
-scripts/download_era5land.py
