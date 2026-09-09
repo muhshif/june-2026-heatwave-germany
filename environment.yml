@@ -1,0 +1,15 @@
+name: june-2026-heatwave
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python=3.12
+  - numpy
+  - pandas
+  - xarray
+  - netcdf4
+  - matplotlib
+  - cartopy
+  - scipy
+  - cdsapi
