@@ -21,12 +21,19 @@ workflow using Python and data from the Copernicus Climate Data Store.
 ERA5-Land reanalysis data are obtained from the Copernicus Climate Data Store
 (CDS).
 
-The initial analysis uses:
+### Study scope
 
-- 2 m temperature
-- volumetric soil water layer 1
-- 1–30 June 2026
-- a geographic domain covering Germany and its immediate surroundings
+- **Context period:** 1–30 June 2026
+- **Heatwave period:** 18–30 June 2026
+- **Domain:** 47–55°N, 5–16°E
+- **Dataset:** ERA5-Land
+- **Variables:**
+  - 2 m temperature
+  - Volumetric soil water layer 1
+
+The full month of June is used to provide context for the evolution of
+temperature and soil moisture, while 18–30 June 2026 is treated as the
+heatwave analysis period.
 
 Raw ERA5-Land data are not stored in this repository. A Python download script
 is provided so that the input dataset can be reproduced from CDS.
