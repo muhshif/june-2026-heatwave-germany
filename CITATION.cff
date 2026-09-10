@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you reference this project, please cite it using the metadata below."
+
+title: "June 2026 Heatwave over a Germany-Centred Domain: ERA5-Land Temperature and Soil-Moisture Diagnostics"
+
+type: software
+
+authors:
+  - family-names: "Karadan"
+    given-names: "Muhammed Muhshif"
+
+version: "1.0.0"
+
+abstract: >-
+  A compact and reproducible Python workflow for analysing near-surface
+  temperature and soil-moisture conditions during the June 2026 European
+  heatwave using ERA5-Land reanalysis data over a Germany-centred domain.
+
+keywords:
+  - ERA5-Land
+  - heatwave
+  - Germany
+  - soil moisture
+  - temperature
+  - climate
+  - reanalysis
+  - Python
+  - reproducible research

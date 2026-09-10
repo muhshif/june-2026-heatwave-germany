@@ -11,5 +11,4 @@ dependencies:
   - netcdf4
   - matplotlib
   - cartopy
-  - scipy
   - cdsapi
