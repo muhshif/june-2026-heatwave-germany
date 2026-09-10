@@ -197,6 +197,10 @@ Zenodo. https://doi.org/10.5281/zenodo.22693412
 
 DOI: **10.5281/zenodo.22693412**
 
+### Persistent identifiers
+
+- Version 1.0.0 DOI: https://doi.org/10.5281/zenodo.22693412
+- All versions DOI: https://doi.org/10.5281/zenodo.22693411
 ## Author
 
 **Muhammed Muhshif Karadan**
