@@ -1,0 +1,2 @@
+heatwave_start,heatwave_end,mean_heatwave_tmax_c,peak_domain_tmax_c,peak_domain_tmax_date,mean_preheatwave_soil_moisture_m3_m3,mean_heatwave_soil_moisture_m3_m3,soil_moisture_change_m3_m3,spatial_sm_tmax_correlation_r
+2026-06-18,2026-06-30,29.763722023320835,34.91711923482781,2026-06-27,0.3207203353517821,0.2479538012245899,-0.07276653412719222,-0.36925181243076727
