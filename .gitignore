@@ -1,0 +1,25 @@
+# Raw climate data
+data/raw/
+
+# NetCDF / GRIB data
+*.nc
+*.nc4
+*.grib
+*.grib2
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Python environments
+.env
+.venv/
+venv/
+
+# macOS
+.DS_Store
+
+# Temporary files
+*.tmp
+*.log
