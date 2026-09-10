@@ -1,5 +1,5 @@
 # June 2026 Heatwave over a Germany-Centred Domain
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22693412.svg)](https://doi.org/10.5281/zenodo.22693412)
 A compact and reproducible ERA5-Land analysis of near-surface temperature
 and soil-moisture conditions during the June 2026 European heatwave.
 
@@ -191,8 +191,11 @@ Climate Data Store terms and are not redistributed through this repository.
 
 ## Citation
 
-A permanent citation and DOI will be added after the Version 1.0.0 release
-is archived in Zenodo.
+Karadan, M. M. (2026). *June 2026 Heatwave over a Germany-Centred Domain:
+ERA5-Land Temperature and Soil-Moisture Diagnostics* (Version 1.0.0).
+Zenodo. https://doi.org/10.5281/zenodo.22693412
+
+DOI: **10.5281/zenodo.22693412**
 
 ## Author
 

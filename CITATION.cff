@@ -10,6 +10,11 @@ authors:
     given-names: "Muhammed Muhshif"
 
 version: "1.0.0"
+date-released: 2026-09-10
+
+doi: "10.5281/zenodo.22693412"
+
+repository-code: "https://github.com/muhshif/june-2026-heatwave-germany"
 
 abstract: >-
   A compact and reproducible Python workflow for analysing near-surface
